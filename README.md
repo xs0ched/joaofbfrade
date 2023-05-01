@@ -1,21 +1,25 @@
 
 <div align="center">
-  <h1 >j̴͍̤͖͔̣̝̦̭̗̗̬̼͉̣̬͗̈́̀̉͗̚̕ò̶̮̩̬͈̹̝͓͙̬̮̮̾̿͗̌́̕͜ā̶̢̨̱̭̞̰̞͍͙̆̈͠ơ̴̼͔͔͈͇̦͉͍̖̬̥̪̗̭̻̠̬͓͗̆͒̐͗̀͂̓̅̕̕͜͝f̸̡̨̢̥̜͇̱̞̣̫̙͙̝̙͑͂̒͛͛͛͐̏̀̕͠b̸̘̪́̈̇̆͆͊͌̈͌͊̃̓̚̕͝f̴̢̭̜̯͖̖͉̹̟͈̰̗͕̺̈́r̴͚͓͎̟̼̳̦̻͊͌̎͝a̴͠ͅd̸̖̻͓̼̲̦̤̝̼̗͍̣̘̭͈͖̊͑̀̓͒̊̓̄̀̆̔̐̏̃̓̈̏̓̕͜ͅͅe̸̢̧̛̤͉̭͇̠͊͑̄̍̒̈</h1>
+  <h1 >j̸͈̲͙͒͂̂͘ͅo̵̻̤̐̓͑a̶͓̭̫͋͐͑o̷̲̥̩̪͊̂͒f̴̡̨͉̪̊ḅ̴̞͒f̷͇̞̼̈́̇̎̽r̷̬̦̆̓́â̸̛̰͑d̶̼̠̜̗͋͒̕ë̶͖̲̙̖́͝</h1>
   
    <br>
    <br>
-   <br>
+
+ 
+
+  <img src="https://user-images.githubusercontent.com/22626546/235510186-dd213439-d408-4229-a3fb-bfe5db52f694.png" alt="Descrição da imagem">
+    <br>
+   
    <br>
   
-  <img src="https://user-images.githubusercontent.com/22626546/235507762-882c9899-8a63-4040-b975-b59c4515690e.png" alt="Descrição da imagem">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofbfrade)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofbfrade&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
 
 
-**joaofbfrade/joaofbfrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -26,5 +30,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...a
+- ⚡ Fun fact: ...
 
