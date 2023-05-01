@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
+<!--![Screenshot_3](https://user-images.githubusercontent.com/22626546/235507762-882c9899-8a63-4040-b975-b59c4515690e.png)
+
 **joaofbfrade/joaofbfrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
