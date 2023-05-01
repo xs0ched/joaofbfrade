@@ -13,7 +13,7 @@
    <br>
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofbfrade&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofbfrade&count_private=true&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
