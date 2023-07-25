@@ -7,7 +7,6 @@
 
  
 
-  <img src="https://user-images.githubusercontent.com/22626546/235510186-dd213439-d408-4229-a3fb-bfe5db52f694.png" alt="Descrição da imagem">
     <br>
    
    <br>
