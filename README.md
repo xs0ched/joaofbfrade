@@ -11,9 +11,9 @@
    <br>
   
   
-[![Anurag's GitHub stats](https://github-readme-stats-dun-psi-82.vercel.app/api?username=joaofbfrade)](https://github.com/joaofbfrade/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats-dun-psi-82.vercel.app/api?username=joaofbfrade&theme=radical)](https://github.com/joaofbfrade/github-readme-stats)
   
-
+[![Top Langs](https://github-readme-stats-dun-psi-82.vercel.ap/api/top-langs/?username=joaofbfrade)](https://github.com/joaofbfrade/github-readme-stats)
 
 </div>
 
