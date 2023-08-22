@@ -15,7 +15,7 @@ I'm a full-stack developer and software engineer </h1>
 <div align="center">
   <p>⚡</p>
   <h2>
-    Checkout my <a href="[URL_DO_PORTFOLIO](https://www.joaofbfrade.online)" ">portfolio </a>!
+    Checkout my <a href="https://www.joaofbfrade.online" ">portfolio </a>!
   </h2>
 
   
