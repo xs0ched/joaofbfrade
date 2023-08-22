@@ -1,17 +1,24 @@
 
 <div align="center">
 
-  
-  
+ 
+<img src="https://img.freepik.com/premium-vector/coding-line-vector-icon-with-code-screen_116137-2643.jpg" width="100" height="100" >
 
 
  
-  Hi, my name is João Frade
-I'm a full-stack developer and software engineer.
+<h1 > Hi, my name is João Frade
+I'm a full-stack developer and software engineer </h1> 
+
+<br>
+
+
 <div align="center">
-  <p>
-    Checkout my <a href="URL_DO_PORTFOLIO" style="color: #ffd700;">portfolio</a>!
-  </p>
+  <p>⚡</p>
+  <h2>
+    Checkout my <a href="[URL_DO_PORTFOLIO](https://www.joaofbfrade.online)" ">portfolio </a>!
+  </h2>
+
+  
 </div>
    <br>
    <br>
