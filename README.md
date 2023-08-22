@@ -31,7 +31,7 @@ I'm a full-stack developer and software engineer! <br>
    <br>
   
   
-[![Anurag's GitHub stats](https://github-readme-stats-dun-psi-82.vercel.app/api?username=joaofbfrade&theme=radical)](https://github.com/joaofbfrade/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-dun-psi-82.vercel.app/api?username=joaofbfrade&theme=radical&include_all_commits)](https://github.com/joaofbfrade/github-readme-stats)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofbfrade&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact)
 
