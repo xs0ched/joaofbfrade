@@ -1,7 +1,18 @@
 
 <div align="center">
-  <h1 >j̸͈̲͙͒͂̂͘ͅo̵̻̤̐̓͑a̶͓̭̫͋͐͑o̷̲̥̩̪͊̂͒f̴̡̨͉̪̊ḅ̴̞͒f̷͇̞̼̈́̇̎̽r̷̬̦̆̓́â̸̛̰͑d̶̼̠̜̗͋͒̕ë̶͖̲̙̖́͝</h1>
+
   
+  
+
+
+ 
+  Hi, my name is João Frade
+I'm a full-stack developer and software engineer.
+<div align="center">
+  <p>
+    Checkout my <a href="URL_DO_PORTFOLIO" style="color: #ffd700;">portfolio</a>!
+  </p>
+</div>
    <br>
    <br>
 
