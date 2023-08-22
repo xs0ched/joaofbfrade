@@ -6,17 +6,17 @@
 
 
  
-<h1 > Hi, my name is João Frade
-I'm a full-stack developer and software engineer </h1> 
+<h3 > Hi, my name is João Frade
+I'm a full-stack developer and software engineer </h3> 
 
 <br>
 
 
 <div align="center">
-  <p>⚡</p>
-  <h2>
-    Checkout my <a href="https://www.joaofbfrade.online" ">portfolio </a>!
-  </h2>
+  <h3>⚡</h3>
+   <h1>
+    Checkout my <a href="https://www.joaofbfrade.online" style="color: #ffd700;">portfolio</a>.
+  </h1>
 
   
 </div>
