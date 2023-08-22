@@ -6,20 +6,22 @@
 
 
  
-<h3 > Hi, my name is João Frade
-I'm a full-stack developer and software engineer </h3> 
+<h1 > Hi, my name is João Frade
+I'm a full-stack developer and software engineer! <br>
+ <br>
+ <br>
+ ⚡
+    Checkout my <a href="https://www.joaofbfrade.online" style="color: #ffd700;">portfolio</a> ⚡
+</h1> 
 
 <br>
 
 
-<div align="center">
-  <h3>⚡</h3>
-   <h1>
-    Checkout my <a href="https://www.joaofbfrade.online" style="color: #ffd700;">portfolio</a>
-  </h1>
+
+ 
 
   
-</div>
+
    <br>
    <br>
 
@@ -33,9 +35,9 @@ I'm a full-stack developer and software engineer </h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofbfrade&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact)
 
+
+
 </div>
-
-
 
 
 
