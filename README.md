@@ -2,7 +2,6 @@
 <div align="center">
 
  
-<img src="https://img.freepik.com/premium-vector/coding-line-vector-icon-with-code-screen_116137-2643.jpg" width="100" height="100" >
 
 
  
