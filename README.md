@@ -5,7 +5,7 @@
 
 
  
-<h1 > Hi, my name is João Frade
+<h1 > Hi,
 I'm a full-stack developer and software engineer! <br>
  <br>
  <br>
